@@ -1,4 +1,4 @@
-# Udacity_Capstone
+# Udacity Capstone
 ## Udacity Data Scientist Nanodegree Capstone Project - A deep dive to Starbuck Customer Data
 
 

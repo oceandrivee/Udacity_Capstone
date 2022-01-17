@@ -2,7 +2,7 @@
 ## Udacity Data Scientist Nanodegree Capstone Project - A deep dive to Starbuck Customer Data
 
 
-Project Overview :
+#### Project Overview :
 
 For the final stage of Data Science nanodegree program, Starbucks has provided three real-time datasets for this project as an initiative to Udacity. These datasets are as following:
 1. profile.json
